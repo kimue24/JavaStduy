@@ -13,6 +13,6 @@ public class OperatorEx26 {
 		System.out.printf("a==0 && ++b!=0 = %b%n", a==0 && ++b!=0);
 		System.out.printf("a=%d, b=%d%n", a, b);
 	
-	}
+	} //main의 끝
 
 }
