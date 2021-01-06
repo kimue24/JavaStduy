@@ -6,6 +6,8 @@ public class star1 {
 		// TODO Auto-generated method stub
 		for(int i = 1; i<=5; i++) {
 			System.out.println("**********");
+			
+		//커밋용~
 		}
 	}
 }
