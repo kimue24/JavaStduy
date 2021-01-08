@@ -7,7 +7,7 @@ public class star1 {
 		for(int i = 1; i<=5; i++) {
 			System.out.println("**********");
 			
-		//커밋용2~
+		//커밋용3~
 		}
 	}
 }
