@@ -22,7 +22,7 @@ public class BoardDAOImpl implements BoardDAO {
 		
 	}
 	
-	//게시물 목록 조회
+	//게시판 목록 조회
 	@Override
 	public List<BoardVO> list() throws Exception {
 		return sqlSession.selectList("boardMapper.list");
